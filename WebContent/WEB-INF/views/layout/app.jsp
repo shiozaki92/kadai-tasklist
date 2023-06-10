@@ -17,7 +17,7 @@
                 ${param.content}
             </div>
             <div id="footer">
-                by Koudai.Shiozaki.
+
             </div>
         </div>
     </body>
